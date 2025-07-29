@@ -1,1 +1,1 @@
-# SARIFDependencyBugBash04
+test
